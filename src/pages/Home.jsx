@@ -44,12 +44,12 @@ const Home = () => {
       </div>
       <Helmet>
         <title>
-          Watch Anime Online, Free Anime Streaming Online on AniHub Anime
+          Watch Anime Online, Free Anime Streaming Online on BliNime Anime
           Website
         </title>
         <meta
           name="description"
-          content=" AniHub is a free no ads anime site to watch free anime. Online anime streaming at AniHub with DUB, SUB in HD."
+          content=" Blinime is a free no ads anime site to watch free anime. Online anime streaming at BliNime with DUB, SUB in HD."
         />
         <meta property="og:title" content="home - AniHub" />
       </Helmet>
