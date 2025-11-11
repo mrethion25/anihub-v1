@@ -89,7 +89,7 @@ const ListPage = () => {
   return (
     <div className="min-h-screen bg-black pt-16">
       <Helmet>
-        <title>{getCategoryTitle(category, query)} - AniHub</title>
+        <title>{getCategoryTitle(category, query)} - BliNime</title>
         <meta property="og:title" content={`${getCategoryTitle(category, query)} - AniHub`} />
         <meta property="og:description" content={`Browse ${getCategoryTitle(category, query)} anime collection on AniHub`} />
       </Helmet>
