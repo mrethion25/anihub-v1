@@ -24,7 +24,7 @@ const SearchResult = () => {
     <div className="list-page pt-20">
       <Helmet>
         <title>search result of {keyword}</title>
-        <meta property="og:title" content="search - AniHub" />
+        <meta property="og:title" content="search - BliNime" />
       </Helmet>
       {pages && !isLoading ? (
         <InfiniteScroll
