@@ -8,7 +8,7 @@ export default defineConfig({
     port: 5000,
     host: '0.0.0.0',
     allowedHosts: [
-      '.replit.dev',
+      '.onrender.com',
       'localhost',
       '127.0.0.1'
     ]
