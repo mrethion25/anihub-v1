@@ -77,7 +77,7 @@ const WatchPage = () => {
           Watch {id.split("-").slice(0, 2).join(" ")} Online, Free Anime
           Streaming Online on AniHub Anime Website
         </title>
-        <meta property="og:title" content="watch - AniHub" />
+        <meta property="og:title" content="watch - BliNime" />
       </Helmet>
       
       <div className="max-w-7xl mx-auto px-4 lg:px-6 pb-8">
