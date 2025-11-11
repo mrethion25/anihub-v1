@@ -7,7 +7,7 @@ const Root = () => {
   return (
     <div className="min-h-screen bg-black text-white overflow-hidden relative">
       <Helmet>
-        <title>AniHub - Premium Anime Streaming Platform</title>
+        <title>blinime - Premium Anime Streaming Platform</title>
         <meta
           name="description"
           content="Experience the ultimate anime streaming destination. Watch thousands of episodes in HD quality with subtitles. Join AniHub today."
@@ -32,7 +32,7 @@ const Root = () => {
           <div className="w-10 h-10 bg-white rounded-lg flex items-center justify-center">
             <FaPlay className="text-black text-lg" />
           </div>
-          <h1 className="text-2xl font-bold">AniHub</h1>
+          <h1 className="text-2xl font-bold">BliNime</h1>
         </div>
         <Link
           to="/home"
@@ -77,12 +77,12 @@ const Root = () => {
               <span>Start Watching</span>
             </Link>
             <a 
-              href="https://discord.gg/strelix"
+              href="https://discord.gg/jH7HpVQbH3"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 border border-white/30 text-white font-semibold rounded-lg hover:bg-white/10 transition-all duration-300 hover:scale-105 inline-block text-center"
             >
-              Join Discord
+              Join Bliss cafe
             </a>
           </div>
         </div>
@@ -144,7 +144,7 @@ const Root = () => {
       {/* Footer */}
       <footer className="relative z-10 text-center py-8 border-t border-white/10 mt-20">
         <p className="text-gray-400">
-          © 2025 AniHub. Experience anime streaming at its finest.
+          © 2025 BliNime. made with 💜 by arima.
         </p>
       </footer>
     </div>
